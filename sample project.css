@@ -1,0 +1,102 @@
+.home {
+    display: inline;
+}
+.homee{
+    display: inline;
+}
+#home1{
+    padding-left: 22%;
+    font-weight: bolder;
+}
+#login{
+    margin-left: 18%;
+    background-color: rgb(38, 182, 249);
+    border-radius: 17%;
+    border-color: rgb(38, 182, 249);
+    height: 4%;
+    width: 5%;
+    color: white;
+}
+#home{
+    padding-right: 1%;
+}
+#des{
+    padding-right: 1%;
+}
+#abo{
+    padding-right: 1%;
+}
+#con{
+    padding-right: 1%;
+}
+#head{
+    display: inline;
+    font-size: 600%;
+}
+#home:hover{
+    color: purple;
+    font-size: large;
+    margin-right: .65%;
+}
+#des:hover{
+    color: purple;
+    font-size: large;
+    margin-right: .3%;
+}
+#abo:hover{
+    color: purple;
+    font-size: large;
+    margin-right: .45%;
+}
+#con:hover{
+    color: purple;
+    font-size: large;
+    margin-right: .3%;
+}
+.para{
+    display: inline;
+   position: absolute;
+   bottom: 450px;
+   font-size: large;
+}
+.image{
+    height: 115%;
+    width: fit-content;
+}
+#sec{
+    background-color: rgb(4, 5, 61);
+    color: rgb(255, 255, 255);
+    height: 99%;
+}
+#img2{
+ position: absolute;
+ top: 180%;
+ right: 3%;
+ height: 60%;
+
+}
+.but{
+    background-color: rgb(71, 196, 238);
+    color: white;
+    height: 6%;
+    width: 10%;
+    border-color: rgb(71, 196, 238);
+    margin-left: 45%;
+}
+.but:hover{
+    width: 12%;
+    height: 8%;
+    color:rgb(161, 161, 161) ;
+    background-color: rgb(17, 116, 255);
+    margin-left: 44%;
+    margin-top: -0.2%;
+    border-color: rgb(17, 116, 255);
+}   
+*{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+#head2{
+    text-align: center;
+    font-size: 400%;
+}
